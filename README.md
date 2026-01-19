@@ -1,5 +1,8 @@
 # proxmox-command
 
+ pct enter 102
+
+
 #delehe Disk 
 -
 
